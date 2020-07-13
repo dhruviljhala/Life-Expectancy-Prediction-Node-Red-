@@ -1,4 +1,4 @@
-# llSPS-INT-2140-Predicting-Life-Expectancy-using-Machine-Learning
+# Predicting-Life-Expectancy-using-Node-Red
 
 
 ![Interface](https://user-images.githubusercontent.com/62502391/84795163-c211c380-b014-11ea-99e0-e563218082e9.PNG)
